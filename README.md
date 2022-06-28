@@ -1,8 +1,8 @@
 # vid2slide
 
-Convert video presentation to slides(PPT). Preparing materials from videos are really time-consuming. This tool is to help you to generate PPT from a YouTube Link or a video.
+Convert video presentation to slides(PPT). Preparing materials from videos is really time-consuming. This tool is to help you to generate PPT from a YouTube Link or a video.
 
-_This project was initiated during PyExpo 2021 organized by KGiSL Institute Technology._
+_This project was initiated during [PyExpo2021](https://github.com/kgex/pyexpo) organized by KGiSL Institute Technology._
 
 ## Create Environment and Install Dependencies
 
