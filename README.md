@@ -25,4 +25,4 @@ python main.py
 ### Contributers
 
 - Idea - [Navaneeth Malingan](https://github.com/nivu)
-- Original Author - [Paul Raj - 1st year KITE]() and Team
+- Original Author - [Paul Raj - 1st year KITE](https://github.com/paulraj916) and [Jalathan - 1st year KITE](https://github.com/jalathan)
